@@ -7,6 +7,8 @@
 <a href="https://x.com/CleanPano"><img src="https://img.shields.io/badge/-@CleanPano-111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 <a href="https://github.com/CleanPano/CleanPano"><img src="https://img.shields.io/badge/-CleanPano-111?style=flat-square&logo=github&logoColor=white" alt="CleanPano"></a>
 <a href="https://github.com/CleanPano/CleanWinVista"><img src="https://img.shields.io/badge/-CleanWinVista-111?style=flat-square&logo=github&logoColor=white" alt="CleanWinVista"></a>
+<a href="https://github.com/ElChefZ/security-gatekeeper"><img src="https://img.shields.io/badge/-security--gatekeeper-111?style=flat-square&logo=claude&logoColor=22E6A8" alt="security-gatekeeper"></a>
+<a href="https://github.com/ElChefZ/design-director"><img src="https://img.shields.io/badge/-design--director-111?style=flat-square&logo=claude&logoColor=FF7A59" alt="design-director"></a>
 <img src="https://komarev.com/ghpvc/?username=ElChefZ&style=flat-square&color=8AA4FF&label=visitors" alt="visitors">
 
 </div>
@@ -14,11 +16,11 @@
 ```ts
 const elchef = {
   role:        "indie dev · tool builder",
-  builds:      ["Windows apps", "web tools", "tiny utilities that save time"],
+  builds:      ["Windows apps", "web tools", "Claude skills", "tiny utilities that save time"],
   stack:       ["C#", ".NET", "PowerShell", "JavaScript"],
   rules:       ["free", "private", "no bloat", "looks good"],
   pairs_with:  "Claude 🤖",
-  currently:   "shipping something new 👀",
+  currently:   "open-sourcing my Claude skills 🧩 (PRs welcome!)",
   fun_fact:    "every tool starts as a problem that annoyed me",
 };
 ```
@@ -44,6 +46,29 @@ const elchef = {
 </td>
 </tr>
 </table>
+
+### 🧩 Free Claude skills
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/ElChefZ/design-director"><img src="https://raw.githubusercontent.com/ElChefZ/design-director/main/assets/banner.png" alt="Design Director"></a><br>
+<b><a href="https://github.com/ElChefZ/design-director">Design Director</a></b> · turns Claude into a full design studio: UI/UX, design systems, visual QA<br>
+<img src="https://img.shields.io/badge/-NEW-FF7A59?style=flat-square">
+<img src="https://img.shields.io/badge/-WCAG%202.2%20AA-111?style=flat-square">
+<img src="https://img.shields.io/badge/-Apache--2.0-111?style=flat-square">
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/ElChefZ/security-gatekeeper"><img src="https://raw.githubusercontent.com/ElChefZ/security-gatekeeper/main/assets/banner.png" alt="Security Gatekeeper"></a><br>
+<b><a href="https://github.com/ElChefZ/security-gatekeeper">Security Gatekeeper</a></b> · pre-release security audit with a GO / NO-GO verdict<br>
+<img src="https://img.shields.io/badge/-GO%20%2F%20NO--GO-22E6A8?style=flat-square">
+<img src="https://img.shields.io/badge/-EN%20·%20PT--BR%20·%20ES-111?style=flat-square">
+<img src="https://img.shields.io/badge/-Apache--2.0-111?style=flat-square">
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>Drop the folder into Claude and go. Ideas, issues and PRs are very welcome 🤝</sub></div>
 
 ### ⚡ Toolbox
 
