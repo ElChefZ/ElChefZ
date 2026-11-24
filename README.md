@@ -52,24 +52,21 @@ const elchef = {
 
 <table>
 <tr>
-<td align="center" colspan="2">
+<td align="center" width="33%">
 <a href="https://github.com/ElChefZ/favowrite"><img src="https://raw.githubusercontent.com/ElChefZ/favowrite/main/assets/banner.png" alt="Favowrite"></a><br>
-<b><a href="https://github.com/ElChefZ/favowrite">Favowrite</a></b> · 9,353 SVG icons in 7 styles with 19 ready-made animations, a zero-dependency CLI and an offline gallery · <a href="https://elchefz.github.io/favowrite/">live demo</a><br>
+<b><a href="https://github.com/ElChefZ/favowrite">Favowrite</a></b> · 9,353 SVG icons with 19 ready-made animations · <a href="https://elchefz.github.io/favowrite/">live demo</a><br>
 <img src="https://img.shields.io/badge/-NEW-FFB84D?style=flat-square">
-<img src="https://img.shields.io/badge/-19%20animations-111?style=flat-square">
 <img src="https://img.shields.io/badge/-0%20dependencies-111?style=flat-square">
 <img src="https://img.shields.io/badge/-Apache--2.0-111?style=flat-square">
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://github.com/ElChefZ/design-director"><img src="https://raw.githubusercontent.com/ElChefZ/design-director/main/assets/banner.png" alt="Design Director"></a><br>
 <b><a href="https://github.com/ElChefZ/design-director">Design Director</a></b> · turns Claude into a full design studio: UI/UX, design systems, visual QA<br>
 <img src="https://img.shields.io/badge/-NEW-FF7A59?style=flat-square">
 <img src="https://img.shields.io/badge/-WCAG%202.2%20AA-111?style=flat-square">
 <img src="https://img.shields.io/badge/-Apache--2.0-111?style=flat-square">
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 <a href="https://github.com/ElChefZ/security-gatekeeper"><img src="https://raw.githubusercontent.com/ElChefZ/security-gatekeeper/main/assets/banner.png" alt="Security Gatekeeper"></a><br>
 <b><a href="https://github.com/ElChefZ/security-gatekeeper">Security Gatekeeper</a></b> · pre-release security audit with a GO / NO-GO verdict<br>
 <img src="https://img.shields.io/badge/-GO%20%2F%20NO--GO-22E6A8?style=flat-square">
