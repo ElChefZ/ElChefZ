@@ -9,6 +9,7 @@
 <a href="https://github.com/CleanPano/CleanWinVista"><img src="https://img.shields.io/badge/-CleanWinVista-111?style=flat-square&logo=github&logoColor=white" alt="CleanWinVista"></a>
 <a href="https://github.com/ElChefZ/security-gatekeeper"><img src="https://img.shields.io/badge/-security--gatekeeper-111?style=flat-square&logo=claude&logoColor=22E6A8" alt="security-gatekeeper"></a>
 <a href="https://github.com/ElChefZ/design-director"><img src="https://img.shields.io/badge/-design--director-111?style=flat-square&logo=claude&logoColor=FF7A59" alt="design-director"></a>
+<a href="https://github.com/ElChefZ/favowrite"><img src="https://img.shields.io/badge/-favowrite-111?style=flat-square&logo=claude&logoColor=8FD0FF" alt="favowrite"></a>
 <img src="https://komarev.com/ghpvc/?username=ElChefZ&style=flat-square&color=8AA4FF&label=visitors" alt="visitors">
 
 </div>
@@ -50,6 +51,16 @@ const elchef = {
 ### 🧩 Free Claude skills
 
 <table>
+<tr>
+<td align="center" colspan="2">
+<a href="https://github.com/ElChefZ/favowrite"><img src="https://raw.githubusercontent.com/ElChefZ/favowrite/main/assets/banner.png" alt="Favowrite"></a><br>
+<b><a href="https://github.com/ElChefZ/favowrite">Favowrite</a></b> · 9,353 SVG icons in 7 styles with 19 ready-made animations, a zero-dependency CLI and an offline gallery · <a href="https://elchefz.github.io/favowrite/">live demo</a><br>
+<img src="https://img.shields.io/badge/-NEW-FFB84D?style=flat-square">
+<img src="https://img.shields.io/badge/-19%20animations-111?style=flat-square">
+<img src="https://img.shields.io/badge/-0%20dependencies-111?style=flat-square">
+<img src="https://img.shields.io/badge/-Apache--2.0-111?style=flat-square">
+</td>
+</tr>
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/ElChefZ/design-director"><img src="https://raw.githubusercontent.com/ElChefZ/design-director/main/assets/banner.png" alt="Design Director"></a><br>
