@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="./elchefz-card.svg" width="480" alt="ElChefZ — builds tools it wishes existed and gives them away">
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=8AA4FF&center=true&vCenter=true&width=640&lines=I+build+the+tools+I+wish+existed.;Then+I+give+them+away+%F0%9F%8E%81;Free.+Private.+No+bloat.;Shipping+in+public+%F0%9F%9A%80" alt="I build the tools I wish existed.">
 
 <a href="https://x.com/CleanPano"><img src="https://img.shields.io/badge/-@CleanPano-111?style=flat-square&logo=x&logoColor=white" alt="X"></a>
